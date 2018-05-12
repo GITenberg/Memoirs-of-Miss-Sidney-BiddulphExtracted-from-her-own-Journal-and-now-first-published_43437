@@ -1,0 +1,33 @@
+_repo: Memoirs-of-Miss-Sidney-BiddulphExtracted-from-her-own-Journal-and-now-first-published_43437
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43437-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sheridan, Frances Chamberlaine
+    aliases:
+    - Bidulph, Sidney
+    - Biddulph, Sidney
+    - Bidulph, Catharine Sidney
+    - Sheridan, F. (Frances)
+    birthdate: 1724
+    deathdate: 1766
+    gutenberg_agent_id: '42205'
+    url: http://www.gutenberg.org/2009/agents/42205
+description: ''
+gutenberg_issued: '2013-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 18th century'
+title: 'Memoirs of Miss Sidney Biddulph
+
+  Extracted from her own Journal, and now first published'
+url: http://www.gutenberg.org/ebooks/43437

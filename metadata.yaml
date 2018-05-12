@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '42205'
     url: http://www.gutenberg.org/2009/agents/42205
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43437#Memoirs-of-Miss-Sidney-BiddulphExtracted-from-her-own-Journal-and-now-first-published
 gutenberg_issued: '2013-08-10'
 gutenberg_type: Text
 identifiers:
